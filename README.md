@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy David Rubio Moreno
 
 <p align="left">
-  <a href="https://davidrubiomoreno.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio_Web-davidrubiomoreno.github.io-73f3b5?style=for-the-badge&logoColor=080c0e&labelColor=101719" alt="Portfolio" />
+  <a href="https://davidrubiomoreno.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/ _Portfolio_Web-davidrubiomoreno.github.io-73f3b5?style=for-the-badge&logoColor=080c0e&labelColor=101719" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/david-rubio-moreno-a94681409/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -12,18 +12,18 @@
   </a>
 </p>
 
-### 🎮 Desarrollador de Software & Videojuegos
+### Desarrollador de Software & Videojuegos
 
 Desarrollador centrado en **simulación física**, **herramientas**, **motores gráficos** y arquitectura en **C++** y **C#**.
 
-- 🕹️ **Lead Programmer** en GuimGames ([Fatto Prizzerva](https://www.fatto-prizzerva.com)).
-- 🪐 Creador de [Cosmic Architect](https://www.fab.com/listings/4e181e3f-0077-4ed6-8079-39e679ddfe24?tab=reviews), plugin de generación procedural de sistemas planetarios para Unreal Engine 5 publicado en Fab.
-- 🎓 Estudiante de Desarrollo de Videojuegos en la **Universidad Complutense de Madrid**.
-- 🚀 Puedes explorar todas mis demos, vídeos y proyectos en mi **[Portfolio Web](https://davidrubiomoreno.github.io)**.
+- **Lead Programmer** en GuimGames ([Fatto Prizzerva](https://www.fatto-prizzerva.com)).
+- Creador de [Cosmic Architect](https://www.fab.com/listings/4e181e3f-0077-4ed6-8079-39e679ddfe24?tab=reviews), plugin de generación procedural de sistemas planetarios para Unreal Engine 5 publicado en Fab.
+- Estudiante de Desarrollo de Videojuegos en la **Universidad Complutense de Madrid**.
+- Puedes explorar todas mis demos, vídeos y proyectos en mi **[Portfolio Web](https://davidrubiomoreno.github.io)**.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### Tecnologías y Herramientas
 
 | Categoría | Tecnologías |
 | :--- | :--- |
@@ -33,7 +33,7 @@ Desarrollador centrado en **simulación física**, **herramientas**, **motores g
 
 ---
 
-### 📊 Estadísticas en GitHub
+### Estadísticas en GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DavidRubioMoreno&show_icons=true&bg_color=080c0e&title_color=73f3b5&icon_color=73f3b5&text_color=bac6c2&border_color=25332e" alt="Estadísticas de David Rubio Moreno" />
@@ -47,5 +47,5 @@ Desarrollador centrado en **simulación física**, **herramientas**, **motores g
 ---
 
 <p align="center">
-  🔗 <b>Conoce más sobre mi trabajo en <a href="https://davidrubiomoreno.github.io">davidrubiomoreno.github.io</a></b>
+  🔗 <b>Conoce más sobre mi trabajo en <a href="https://davidrubiomoreno.github.io/Portfolio/">davidrubiomoreno.github.io</a></b>
 </p>
